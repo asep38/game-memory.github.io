@@ -1,0 +1,29 @@
+.container {
+  margin: 0 25%;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 0px;
+}
+
+.grid img {
+  height: 200px;
+  width: 200px;
+}
+
+/* ============== */
+
+@media screen and (max-width: 767px) {
+  .grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .grid img {
+    height: 100px;
+    width: 100px;
+  }
+  .container {
+    margin: 0;
+  }
+}

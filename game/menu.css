@@ -1,0 +1,33 @@
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top button {
+  height: 25px;
+}
+
+.menu {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  padding: 20px 30px;
+  border-radius: 15px;
+  align-items: center;
+  display: flex;
+  visibility: hidden;
+  flex-direction: column;
+}
+
+.open_menu {
+  visibility: visible;
+}
+
+.menu h1 {
+  text-align: center;
+}
+
+/*  */
