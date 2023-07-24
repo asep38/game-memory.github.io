@@ -1,6 +1,8 @@
 Link Game 
 https://asep38.github.io/game-memory.github.io/
 
+<img src="https://user-images.githubusercontent.com/112145050/255480055-9a1692ba-3493-4206-b82d-df44b1218091.png" />
+
 # Deskripsi
 Game memori adalah permainan teka-teki yang menantang pemain untuk mengingat posisi dan gambar dari kartu-kartu yang tersebar di atas meja. Tujuan utama dari permainan ini adalah mencocokkan dua kartu yang sama dengan membaliknya secara berurutan dalam jumlah giliran yang terbatas. Pemain harus mengasah daya ingat dan konsentrasi mereka untuk menemukan dan mengingat lokasi kartu-kartu tersebut, karena setiap kartu hanya bisa terlihat sementara sebelum dibalik kembali. Dengan level kesulitan yang semakin meningkat, game memori menjadi cara yang menyenangkan untuk melatih kemampuan kognitif dan menguji kemampuan pemain dalam mengingat informasi dengan cepat dan akurat.
 
